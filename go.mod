@@ -1,4 +1,4 @@
-module github.com/bazelbuild/buildtools
+module github.com/reddit/buildtools
 
 go 1.20
 
